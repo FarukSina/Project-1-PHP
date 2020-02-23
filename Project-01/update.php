@@ -1,6 +1,7 @@
 <?php
   // Step 1: (2 points) Include your connection
-  
+  include("./.env.php");
+
   include("./_connect.php");
 
   // CREATE YOUR CONNECTION BELOW THIS LINE

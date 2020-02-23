@@ -2,6 +2,7 @@
   // Step 1: (2 points) Include your connection
   
   // CREATE YOUR CONNECTION BELOW THIS LINE
+  include("./.env.php");
   include('./_connect.php');
 
   // Step 2: (5 points) Retrieve all the 'supers' rows from your database  

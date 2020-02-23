@@ -1,5 +1,6 @@
 <!-- Step 1: (2 points) Include your header here -->
 <?php 
+include("./.env.php");
 include('_header.php');
 // <!-- Step 2: (1 points) Create a link back to home.php -->
 echo '<a href="./index.php">Home</a>'
